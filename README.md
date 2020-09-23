@@ -2,7 +2,7 @@
 
 ## The rules of the games: ==>
 
-
+## The code: https://github.com/ilhamhoque/blackjack/blob/master/blackjack.py
 
 ### This function lists out all permutations of ace values in the array sum_array.
 ### For example, if you have 2 aces, there are 4 permutations:  [[1,1], [1,11], [11,1], [11,11]]
